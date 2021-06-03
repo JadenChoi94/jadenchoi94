@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WookyoungKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunhyukChoi&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
@@ -23,7 +23,7 @@
 
  <div align=center>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=POPCORN-DOG)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94)](https://github.com/jadenchoi94/github-readme-stats)
 
  </div>
  

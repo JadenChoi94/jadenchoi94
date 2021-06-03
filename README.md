@@ -15,7 +15,9 @@
 </p>
 
 <br>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jadenchoi94})](https://solved.ac/{jadenchoi94})
+
 <br>
 
 <p align="center">

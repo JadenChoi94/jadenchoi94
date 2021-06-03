@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunhyukChoi&fontSize=70&animation=twinkling)
+<div align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunhyukChoi&fontSize=70&animation=twinkling)</div>
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

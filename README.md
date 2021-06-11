@@ -32,7 +32,6 @@
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jadenchoi94})](https://solved.ac/{jadenchoi94})
 </div>
 
- 
 <!--
 Here are some ideas to get you started:
 

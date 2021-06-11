@@ -21,20 +21,17 @@
 </p>
 
 <br>
-
-
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadenchoi94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
  <a href="https://ko-fi.com/coffee_coin"><img src="https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=BuyMeaCoffee&logoColor=white&link=https://ko-fi.com/coffee_coin"/></a>&nbsp
 </p>
+
+<br>
 
 <div align=center> 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94)](https://github.com/jadenchoi94/github-readme-stats)
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jadenchoi94})](https://solved.ac/{jadenchoi94})
 </div>
- 
- <p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://wonjongah.tistory.com/"/></a>
-</p>
- 
+
  
 <!--
 Here are some ideas to get you started:

@@ -28,7 +28,7 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94)](https://github.com/jadenchoi94/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={jadenchoi94})](https://solved.ac/{jadenchoi94})
+
 
 
 <!--

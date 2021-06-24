@@ -28,7 +28,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94&count_private=true)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={jadenchoi94})](https://solved.ac/{jadenchoi94})
 
 
 

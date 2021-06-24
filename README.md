@@ -27,7 +27,7 @@
 
 <br>
 
-(https://github-readme-stats.vercel.app/api?username=jadenchoi94)](https://github.com/jadenchoi94/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94)](https://github.com/jadenchoi94/github-readme-stats)
 
 
 

@@ -28,7 +28,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94&count_private=true)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jadenchoi94">
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 

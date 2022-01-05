@@ -27,7 +27,7 @@
  <a href="https://ko-fi.com/coffee_coin"><img src="https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=BuyMeaCoffee&logoColor=white&link=https://ko-fi.com/coffee_coin"/></a>&nbsp
 </p>
 
-<h2 align="center"><a href="https://bit.ly/3FZmIkL">Check my "FNF" TOKEN</a></h>
+<h2 align="center"><a href="https://bit.ly/3FZmIkL">Check my "FNF" TOKEN</a></h><br><br>
 
 <br>
 

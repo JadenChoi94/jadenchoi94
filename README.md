@@ -27,8 +27,9 @@
  <a href="https://ko-fi.com/coffee_coin"><img src="https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=BuyMeaCoffee&logoColor=white&link=https://ko-fi.com/coffee_coin"/></a>&nbsp
 </p>
 
-<h2 align="center"><a href="https://bit.ly/3FZmIkL" target="_blank">Check my "FNF" TOKEN</a></h><br><br>
-a {text-decoration-line: none;}
+<h2 align="center"><a href="https://bit.ly/3FZmIkL" target="_blank">Check my "FNF" TOKEN</a></h><br>
+<a>Let me know if you wanna get FNF token! It's FREE</a><br>
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenchoi94&count_private=true)

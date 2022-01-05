@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Rust-276DC3?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
 </p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
@@ -25,6 +26,8 @@
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadenchoi94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
  <a href="https://ko-fi.com/coffee_coin"><img src="https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=BuyMeaCoffee&logoColor=white&link=https://ko-fi.com/coffee_coin"/></a>&nbsp
 </p>
+
+<h2 align="center"><a href="https://bit.ly/3FZmIkL">Check my "FNF" TOKEN</a></h>
 
 <br>
 

@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Rust-276DC3?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp
@@ -19,7 +19,8 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/web3.py-5C3EE8?style=flat-square&logo=web3.py&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Web3.py-blue?style=flat-square&logo=web3.py&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Solidity-yellow?style=flat-square&logo=web3.py&logoColor=white"/></a>&nbsp
 </p>
 
 <br>

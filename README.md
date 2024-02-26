@@ -25,7 +25,7 @@
 </p>
 
 <h2 align="center"><a href="https://bit.ly/3FZmIkL" target="_blank">🚀🚀Check my "FNF" TOKEN🔥🔥</a></h><br>
-<a>Let me know if you wanna get FNF tokens! It's FREE</a><br>
+<a>Let me know if you wanna get ONE! It's FREE</a><br>
 
 <br>
 

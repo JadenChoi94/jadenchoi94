@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunhyukChoi&fontSize=70&animation=twinkling)
-<br>
-- Learning more about languages, frameworks, and tools to expand my skill set
-- Big fan of freeCodeCamp
-- No easy day
-- Fail Fast Learn Faster
-<br>
+<p align="center">
+Learning more about languages, frameworks, and tools to expand my skill set
+</p>
+<p align="center">
+Big fan of freeCodeCamp
+</p>
+<p align="center">
+No easy day
+ </p>
+<p align="center">
+Fail Fast Learn Faster
+</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>

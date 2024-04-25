@@ -27,11 +27,15 @@ Fail Fast Learn Faster
 <p align="center"> 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Solidity-yellow?style=flat-square&logo=web3.py&logoColor=white"/></a>&nbsp
 </p>
-
+<p align="center"> 
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>&nbsp
+</p>
 <br>
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjadenchoi94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
  <a href="https://ko-fi.com/coffee_coin"><img src="https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=BuyMeaCoffee&logoColor=white&link=https://ko-fi.com/coffee_coin"/></a>&nbsp
